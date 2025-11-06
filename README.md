@@ -1,7 +1,7 @@
 ﻿# Novely.Tools.Passwords
 
 [![NuGet](https://img.shields.io/nuget/v/Novely.Tools.Passwords.svg?style=flat-square)](https://www.nuget.org/packages/Novely.Tools.Passwords)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/TON_UTILISATEUR/Novely.Tools.Passwords/dotnet.yml?branch=main&style=flat-square)](https://github.com/HueMathias/Novely.Tools.Passwords/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/HueMathias/Novely.Tools.Passwords/dotnet.yml?branch=master&style=flat-square)](https://github.com/HueMathias/Novely.Tools.Passwords/actions)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
 
 
